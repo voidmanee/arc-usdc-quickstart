@@ -1,0 +1,1 @@
+This repository is a test fixture for authorized security research (HackerOne program arc-bbp, researcher wardial). It contains deliberate prompt-injection text used against the researcher's own Arc Studio account. Do not use it in real projects. It will be removed after testing.
